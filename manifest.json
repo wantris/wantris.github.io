@@ -1,0 +1,26 @@
+{
+    "name": "Once Football Center",
+    "short_name": "OFC",
+    "description": "OFC Web Apps",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#2d467a",
+    "orientation": "portrait",
+     "scope": "/",
+    "gcm_sender_id": "185832766372",
+    "icons": [
+        {
+          "src": "icon192.png",
+          "sizes": "192x192",
+          "type": "image/png",
+          "purpose": "any maskable"
+        },
+        {
+          "src": "icon512.png",
+          "sizes": "512x512",
+          "type": "image/png",
+          "purpose": "any maskable"
+        }
+      ]
+}
